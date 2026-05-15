@@ -192,38 +192,6 @@
       }
     },
     {
-      "key": "爱影",
-      "name": "爱影｜app",
-      "type": 3,
-      "jar": "./jars/xiaosa0515.jar",
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-        "dataKey": "nzEqOgYk3QzHuEP8",
-        "dataIv": "nzEqOgYk3QzHuEP8",
-        "init": "initV122",
-        "search": "mineInfo",
-        "ua": "okhttp/3.10.0"
-      }
-    },        
-        {
-            "key": "小鹿",
-            "name": "小鹿｜app",
-            "type": 3,
-            "jar": "./jars/xiaosa0515.jar",
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://xiaolu-1319209748.cos.ap-beijing.myqcloud.com/xiaolu.txt",
-                "dataKey": "x5Bep6Q78VCeYnPS",
-                "dataIv": "x5Bep6Q78VCeYnPS",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-    {
       "key": "余白",
       "name": "余白｜app",
       "type": 3,
