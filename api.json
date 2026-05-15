@@ -179,18 +179,6 @@
             "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar",
             "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
         },
-     {
-      "key": "阳光彼岸",
-      "name": "阳光｜app",
-      "type": 3,
-      "quickSearch": 1,
-     "api": "csp_AppGet",
-      "ext": {
-        "url": "http://38.246.249.33:30012",
-        "dataKey": "JLa1oRdL6+eK7@M)",
-        "dataIv": "JLa1oRdL6+eK7@M)"
-      }
-    },
     {
       "key": "余白",
       "name": "余白｜app",
@@ -203,6 +191,13 @@
         "dataIv": "KsmJgfp3MVQFKWRa",
         "token": "f0b066d896dddfe6b568152586e179a25cbf3e933cd9292638401e581381cf38"
       }
+    },
+    {
+      "key": "皮皮虾",
+      "name": "皮皮虾｜秒播",
+      "type": 3,
+      "api": "./py/ppx.py",
+      "ext": "http://154.94.224.98:8762"
     },
     {
       "key": "首发",
