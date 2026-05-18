@@ -69,18 +69,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-      {
-            "api": "csp_SpiderPyGuard",
-            "changeable": 0,
-            "filterable": 1,
-            "indexs": 0,
-            "key": "八戒",
-            "name": "八戒｜APP",
-            "quickSearch": 0,
-            "searchable": 1,
-			"ext":{"modulePath":"http://825826.xyz:666/tvbox/TYY2/py/八戒.py","type":"video"},
-            "type": 3
-        },
             {
             "key": "YIYI影视",
             "name": "YIYI┃APP",
