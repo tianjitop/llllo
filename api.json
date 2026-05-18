@@ -69,13 +69,7 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-       {
-    "name": "木兮|4K",
-    "type": 4,
-    "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251776139264?token=baiyetv",
-    "searchable": 1,
-    "filterable": 0
-},
+       {"api":"http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251776139264?token=baiyetv","filterable":0,"key":"spider_2055489251776139264","name":"木兮|4K","searchable":1,"type":4},
             {
             "key": "YIYI影视",
             "name": "YIYI┃APP",
