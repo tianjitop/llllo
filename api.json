@@ -69,12 +69,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
-       {
-      "key": "fy",
-      "name": "枫叶｜4K",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
-    },
             {
             "key": "YIYI影视",
             "name": "YIYI┃APP",
