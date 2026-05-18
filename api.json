@@ -55,15 +55,6 @@
         "dataIv": "bM7iC9eA3oZ1nB7z"
       }
     },
-  {
-      "api": "http://ll14s7fe.zjz-service.cn:20384/api/tvbox/source/2055489251776139264?token=baiyetv",
-      "filterable": 0,
-      "jar": "./jars/Omnibox.jar;md5;cc3b3d2ddf389338b62eccd4a938b610"
-      "key": "spider_2055489251776139264",
-      "name": "木兮|APP",
-      "searchable": 1,
-      "type": 4
-    },
    {
             "key": "四叶草",
             "name": "四叶草｜APP",
