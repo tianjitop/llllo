@@ -56,15 +56,6 @@
       }
     },
    {
-      "key": "枫叶",
-      "name": "枫叶｜APP",
-      "type": 4,
-      "api": "https://199525.xyz:1111/video/%E6%9E%AB%E5%8F%B6",
-      "header": {
-        "token": "JT"
-      }
-    },
-   {
             "key": "四叶草",
             "name": "四叶草｜APP",
             "type": 3,
