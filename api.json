@@ -1405,6 +1405,31 @@
         "ratio": 1.597
       }
     },
+   {
+      "key": "戏曲",
+      "name": "蜀山｜曲艺",
+      "type": 3,
+      "jar": "./jars/new.jar",
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "./lib/dg戏曲.json",
+        "cookie": "./lib/cookie.txt"
+      }
+    },
+    {
+      "key": "戏曲大全",
+      "name": "梨园｜行戏曲",
+      "type": 3,
+      "api": "http://rihou.cc:88/js/drpy2.min.js",
+      "ext": "http://rihou.cc:88/js/戏曲大全.js"
+    },
     {
       "key": "push_agent",
       "name": "手机｜推送",
