@@ -1197,20 +1197,6 @@
       "type": 3,
       "api": "./lib/爱听音乐.py"
     },
-     {
-      "key": "音乐仓",
-      "name": "MUSIC｜音乐台",
-      "type": 3,
-      "jar": "./jars/new.jar",
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "json": "./lib/ych.json",
-        "cookie": "./lib/cookie.txt"
-      }
-    },
     {
       "key": "网络直播",
       "name": "网络｜直播",
