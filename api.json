@@ -1424,14 +1424,6 @@
       }
     },
     {
-      "key": "戏曲大全",
-      "name": "梨园｜行戏曲",
-      "type": 3,
-      "jar": "./jars/new.jar",
-      "api": "http://rihou.cc:88/js/drpy2.min.js",
-      "ext": "http://rihou.cc:88/js/戏曲大全.js"
-    },
-    {
       "key": "push_agent",
       "name": "手机｜推送",
       "type": 3,
