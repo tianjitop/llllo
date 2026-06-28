@@ -37,6 +37,16 @@
       "searchable": 0
     },
     {
+      "key": "YunDuo",
+      "name": "☁️云朵｜秒播",
+      "type": 3,
+      "jar": "./jars/fish06281030.jar",
+      "api": "csp_YunDuo",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
       "key": "CupFox",
       "name": "茶杯｜秒播",
       "type": 3,
