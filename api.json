@@ -36,11 +36,20 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-   {
-  "key": "小鸭子看看",
-  "name": "小鸭子看看｜影视",
+    {
+  "key": "魔法盒子",
+  "name": "魔法盒子｜影视",
   "type": 3,
-  "api": "./py/小鸭子看看.py",
+  "api": "./js/魔法盒子.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+   {
+  "key": "七猫",
+  "name": "七猫｜影视",
+  "type": 3,
+  "api": "./py/七猫.py",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
