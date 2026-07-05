@@ -45,24 +45,6 @@
   "quickSearch": 1,
   "filterable": 0
 },
-  {
-  "key": "zgzl_fix",
-  "name": "鸭写入｜影视 ᶻʰᵘⁱ",
-  "type": 3,
-  "api": "./py/追.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
-  "key": "zgzl_fix2",
-  "name": "鸭播放 ｜影视ᶻʰᵘⁱ",
-  "type": 3,
-  "api": "./py/播放.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
    {
     "key": "柯南影视",
     "name": "柯南｜影视",
