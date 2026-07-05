@@ -36,6 +36,15 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+   {
+  "key": "小鸭子看看",
+  "name": "小鸭子看看｜影视",
+  "type": 3,
+  "api": "./py/小鸭子看看.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
   {
   "key": "zgzl_fix",
   "name": "鸭写入｜影视 ᶻʰᵘⁱ",
