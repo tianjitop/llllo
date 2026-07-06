@@ -37,10 +37,10 @@
       "searchable": 0
     },
     {
-  "key": "魔法盒子",
-  "name": "魔法盒子｜影视",
+  "key": "mafa",
+  "name": "麻花｜影视",
   "type": 3,
-  "api": "./py/魔法盒子.py",
+  "api": "./py/麻花.py",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
