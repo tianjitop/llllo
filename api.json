@@ -36,6 +36,15 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+   {
+  "key": "xuefu",
+  "name": "雪狐｜影视",
+  "type": 3,
+  "api": "./json/雪狐web.json",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
     {
   "key": "mafa",
   "name": "麻花｜影视",
