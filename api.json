@@ -36,6 +36,15 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+  {
+      "key": "4K金桔_js",
+      "name": "金桔｜秒播",
+      "api": "./js/金桔.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
    {
     "key": "4K影视",
     "name": "4K电影网｜秒播",
