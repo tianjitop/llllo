@@ -37,6 +37,39 @@
       "searchable": 0
     },
 {
+            "key": "4k",
+            "name": "4k视频｜秒播",
+            "type": 3,
+            "api": "https://gitee.com/Ye-11X115490/PsyDuck/raw/master/lib/PsyDuck-Qiji.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://110.42.67.221:9004",
+                "dataKey": "FTgP4Gq8zPiqbt7M",
+                "dataIv": "FTgP4Gq8zPiqbt7M",
+                "api": 2
+            }
+        },
+{
+      "key": "88影视_js",
+      "name": "88影视｜秒播",
+      "api": "./js/88影视.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+  "key": "大马猴",
+  "name": "大马猴｜秒播",
+  "type": 3,
+  "api": "./py/大马猴.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
       "key": "神马影院_js",
       "name": "神马影院｜秒播",
       "api": "./js/神马影院.js",
@@ -85,15 +118,6 @@
       "key": "iysdqjs_js",
       "name": "山地｜秒播",
       "api": "./js/iysdq.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
-      "key": "mubai_js",
-      "name": "慕白｜秒播",
-      "api": "./js/mubai.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
