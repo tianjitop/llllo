@@ -182,15 +182,6 @@
     "changeable": 1,
     "filterable": 1
 },
- {
-      "key": "4KAAV_js",
-      "name": "4K｜AV",
-      "api": "./js/4KAV.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
     {
   "key": "mafa",
   "name": "麻花｜影视",
