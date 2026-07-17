@@ -36,22 +36,12 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-    {
-      "key": "剧圈影视",
-      "name": "剧圈 ｜影视",
+     {
+      "key": "马猴影视",
+      "name": "马猴 • APP",
       "type": 3,
-      "api": "csp_XYQHiker",
-      "ext": "./lib/JQYS.json"
+      "api": "csp_AppMH"
     },
-{
-  "key": "简云影视",
-  "name": "简云｜秒播",
-  "type": 3,
-  "api": "./json/简云.json",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
 {
   "key": "可可影视",
   "name": "可可影视｜秒播",
