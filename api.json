@@ -37,8 +37,15 @@
       "searchable": 0
     },
     {
+      "key": "剧圈影视",
+      "name": "剧圈 ｜影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "ext": "./lib/JQYS.json"
+    },
+    {
       "key": "剧迷",
-      "name": "剧迷",
+      "name": "剧迷｜秒播",
       "type": 3,
       "api": "./js/Gimy.js",
       "searchable": 1,
