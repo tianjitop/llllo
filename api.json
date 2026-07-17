@@ -36,6 +36,54 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+    {
+      "key": "剧迷",
+      "name": "剧迷",
+      "type": 3,
+      "api": "./js/Gimy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gimyplus.com",
+      "timeout": 60
+    }
+
+{
+  "key": "简云影视",
+  "name": "简云｜秒播",
+  "type": 3,
+  "api": "./json/简云.json",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
+  "key": "可可影视",
+  "name": "可可影视｜秒播",
+  "type": 3,
+  "api": "./py/kkys.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
+      "key": "电影人生js",
+      "name": "电影人生｜秒播",
+      "api": "./js/电影人生.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+  "key": "新瓜子影视",
+  "name": "新瓜子影视｜秒播",
+  "type": 3,
+  "api": "./py/瓜子影视.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
  {
       "key": "高清",
       "name": "高清 ｜秒播",
