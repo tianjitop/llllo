@@ -595,20 +595,6 @@
         "dataIv": "bM7iC9eA3oZ1nB7z"
       }
     },
-  {
-      "key": "四叶草",
-      "name": "四叶草｜APP",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/kkk.txt",
-        "dataKey": "8eeObuwrmS3lRDEs",
-        "dataIv": "8eeObuwrmS3lRDEs",
-        "ua": "okhttp/3.10.0"
-      }
-    },
     {
       "key": "热播影视",
       "name": "热播｜APP",
@@ -655,15 +641,6 @@
         "init": "initV122",
         "ua": "okhttp/3.10.0"
       }
-    },
-     {
-      "key": "洽洽影视",
-      "name": "️瓜子｜影视",
-      "type": 3,
-      "api": "./py/瓜子.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
    {
       "key": "荐片",
