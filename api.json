@@ -5,7 +5,7 @@
   "sites": [
   {
       "key": "豆瓣",
-      "name": "豆瓣｜首页",
+      "name": "豆瓣｜首页温馨提示现在只用OK跟蜂蜜壳子",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -35,6 +35,15 @@
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0
+    },
+{
+      "key": "兄弟影视js",
+      "name": "兄弟影视｜秒播",
+      "api": "./js/兄弟影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
     },
 {
   "key": "马猴影视",
@@ -100,19 +109,7 @@
         "dataIv": "1234567887654321"
       }
     },
-{
-      "key": "小帅",
-      "name": "小帅｜秒播",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://ys.xiaos12.cn",
-        "dataKey": "chfgjfrhhf628vw1",
-        "dataIv": "chfgjfrhhf628vw1"
-      }
-    },
+
 {
             "key": "4k",
             "name": "4k视频｜秒播",
