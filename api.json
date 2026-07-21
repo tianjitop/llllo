@@ -40,12 +40,14 @@
       "key": "飞娱影视",
       "name": "飞鱼 ｜秒播",
       "type": 3,
+      "jar": "./xiaosa.jar",
       "api": "csp_Feiyu"
     },
  {
       "key": "橙子99",
       "name": "橙子 ｜秒播",
       "type": 3,
+      "jar": "./xiaosa.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://113.31.180.218:19987/app/bn",
