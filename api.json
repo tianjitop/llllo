@@ -37,15 +37,6 @@
       "searchable": 0
     },
 {
-      "key": "兄弟影视js",
-      "name": "兄弟影视｜秒播",
-      "api": "./js/兄弟影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
   "key": "马猴影视",
   "name": "马猴｜秒播",
   "type": 3,
@@ -96,20 +87,6 @@
         "ua": "okhttp/3.10.0"
       }
     },
-    {
-      "key": "魔方",
-      "name": "魔方 ｜秒播",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://www.douy32mf.top",
-        "dataKey": "1234567887654321",
-        "dataIv": "1234567887654321"
-      }
-    },
-
 {
             "key": "4k",
             "name": "4k视频｜秒播",
@@ -170,33 +147,7 @@
       "filterable": 1,
       "type": 3
     },
-{
-      "key": "ddys_js",
-      "name": "滴滴｜秒播",
-      "api": "./js/ddys.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
-      "key": "iysdqjs_js",
-      "name": "山地｜秒播",
-      "api": "./js/iysdq.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
-      "key": "绿色影视_js",
-      "name": "绿色影视｜秒播",
-      "api": "./js/绿色影视.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
+
 {
       "key": "小鸭子看看_js",
       "name": "小鸭子看看｜秒播",
@@ -206,15 +157,6 @@
       "filterable": 1,
       "type": 3
     },
-{
-  "key": "飞鱼",
-  "name": "飞鱼｜秒播",
-  "type": 3,
-  "api": "./py/飞鱼.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
 {
   "key": "BT",
   "name": "两个BT｜影视",
@@ -390,18 +332,6 @@
     "changeable": 1,
     "filterable": 1
 },
-  {
-            "key": "茶杯狐",
-            "name": "茶杯狐｜秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://pan.szfx.top/down.php/a81c03da23212c9ffc8a699465dedc8b.jar",
-            "quickSearch": 1,
-            "ext": {
-                "分类url": "https://www.china-itrade.com/zform-list/{cateId}-----------.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-            }
-        }, 
    {
       "key": "爱影视",
       "name": "爱影视｜秒播",
@@ -744,25 +674,6 @@
         "type": 3,
         "api": "csp_XBPQ",
         "ext": "./js/先生.js"
-    },
-{
-        "key": "威武┃影视",
-        "name": "威武｜秒播",
-        "type": 3,
-        "api": "./py/威武.py",
-        "ext": "http://43.248.117.123:4680",
-        "quickSearch": 1
-    },
-    {
-        "key": "布布┃影视",
-        "name": "布布｜秒播",
-        "type": 3,
-        "api": "./py/布布.py",
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
-        "quickSearch": 1
     },
   {
       "key": "裤佬独家免扫4K",
