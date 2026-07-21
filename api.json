@@ -87,21 +87,6 @@
   "filterable": 0
 },
 {
-      "key": "高清",
-      "name": "高清 ｜秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/602.txt",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M",
-        "init": "initV120",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-{
             "key": "4k",
             "name": "4k视频｜秒播",
             "type": 3,
