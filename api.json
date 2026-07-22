@@ -36,6 +36,42 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+{
+      "key": "黄豆短剧",
+      "name": "黄豆｜短剧",
+      "api": "./py/黄豆短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "共青春",
+      "name": "共青春｜秒播",
+      "api": "./py/共青春.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "JD4Kjs",
+      "name": "京东｜秒播",
+      "api": "./js/JD4K.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "牛牛js",
+      "name": "牛牛｜秒播",
+      "api": "./js/牛牛.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
  {
       "key": "飞娱影视",
       "name": "飞鱼 ｜秒播",
