@@ -55,15 +55,6 @@
       "type": 3
     },
 {
-      "key": "JD4Kjs",
-      "name": "京东｜秒播",
-      "api": "./js/JD4K.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
       "key": "牛牛js",
       "name": "牛牛｜秒播",
       "api": "./js/牛牛.js",
