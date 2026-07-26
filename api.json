@@ -46,15 +46,6 @@
       "type": 3
     },
 {
-      "key": "看客影视",
-      "name": "看客｜秒播",
-      "api": "./py/看客.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "type": 3
-    },
-{
       "key": "黄豆短剧",
       "name": "黄豆｜短剧",
       "api": "./py/黄豆短剧.py",
