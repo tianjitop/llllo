@@ -37,9 +37,18 @@
       "searchable": 0
     },
 {
-      "key": "四叶草",
-      "name": "四叶草｜｜秒播",
-      "api": "./py/四叶草.py",
+      "key": "茶杯狐[影]",
+      "name": "茶杯狐[影]｜秒播",
+      "api": "./py/茶杯狐[影].py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "奇点影视",
+      "name": "奇点影视｜秒播",
+      "api": "./py/奇点影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
