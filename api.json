@@ -46,9 +46,9 @@
       "type": 3
     },
 {
-      "key": "奇点影视",
-      "name": "奇点影视｜秒播",
-      "api": "./py/奇点影视.py",
+      "key": "看客影视",
+      "name": "看客｜秒播",
+      "api": "./py/看客.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
